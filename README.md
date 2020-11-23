@@ -1,2 +1,2 @@
 # taro-react-stencil
-添加常用组件方便项目构建
+基于taro框架添加常用组件方便项目构建
